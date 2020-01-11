@@ -1,3 +1,8 @@
+---
+layout: page
+published: false
+title: Untitled
+---
 
 # Hong Chen, Ph.D.
 陳 　泓 博士
@@ -25,7 +30,7 @@ Visiting Lecturer, Faculty of Human Sciences
 * IEEE Cyber Science and Technology Congress (CyberSciTech) Publicity Chair(2017年)
 * IEEE Cyber Science and Technology Congress (CyberSciTech) Guest Editor(2019年)
 
-表彰/Award
+# 表彰/Award
 * Outstanding Leadership Award, CyberSciTech2019
 
 # 連絡先/Contact
@@ -51,4 +56,4 @@ http://ueno.daiichi-koudai.ac.jp/
 〒110-0005　東京都台東区上野7-7-4  
 TEL：03-3847-1391　FAX：03-3847-1392  
 E-mail：h.chen AT ueno.daiichi-koudai.ac.jp  
-http://ueno.daiichi-koudai.ac.jp/  
+http://ueno.daiichi-koudai.ac.jp/
