@@ -1,7 +1,8 @@
 ---
 layout: page
 published: false
-title: Untitled
+title: Profile
+permalink: ''
 ---
 
 # Hong Chen, Ph.D.
